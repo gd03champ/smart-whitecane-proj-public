@@ -14,11 +14,12 @@
 <!-- PROJECT LOGO -->
 
 
-  <h3 align="center">SMART WHITECANE 🦯</h3>
+  <h3 align="center">SMART WHITECANE PUBLIC 🦯</h3>
 
   <p align="center">
     A new way of looking<br>
     (Smart India Hackathon Winning Project)
+  (20% of the code is removed from original source code as they aren't released under MIT as of now)
     <br />
     <br />
      ·
