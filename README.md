@@ -97,9 +97,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@GD17964768](https://twitter.com/GD17964768) - ganishdeepak.cs21@bitsathy.ac.in
+Twitter - [@GD17964768](https://twitter.com/GD17964768) - ganishdeepak.cs21@bitsathy.ac.in
 
-Project Link: [https://github.com/gd03champ/smart-whitecane-proj](https://github.com/gd03champ/smart-whitecane-proj)
+Project Site : [https://gd03champ.web.app/projects/smart-whitecane/](https://gd03champ.web.app/projects/smart-whitecane/)
+
+Complete Source Code Link (private): [https://github.com/gd03champ/smart-whitecane-proj](https://github.com/gd03champ/smart-whitecane-proj)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
